@@ -1,0 +1,43 @@
+h3{
+    background-color: #05b0ff;
+    color: white;
+    line-height: 30px;
+    padding-left:10px;
+    border-radius: 3px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.dt{
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    margin-top: 0;
+    background-image: url("bg.jpg");
+    box-shadow: 5px 5px 5px #888888;
+}
+
+h1{
+    text-align: center;
+}
+
+.dt2{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #05b0ff;
+}
+
+p{
+    text-indent: 20px;
+}
+
+td{
+    text-align: center;
+}
